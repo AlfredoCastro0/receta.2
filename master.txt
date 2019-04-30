@@ -1,2 +1,6 @@
 master of recipes
+<<<<<<< HEAD
 ,
+=======
+soy alfredo segundo commit
+>>>>>>> afedo
